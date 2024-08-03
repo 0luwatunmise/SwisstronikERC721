@@ -12,8 +12,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/dante4rt/swisstronik-private-erc721.git
-    cd swisstronik-private-erc721
+    git clone https://github.com/youngpriince/swisstronik-private-ERC721.git
+    cd swisstronik-private-ERC721
     ```
 
 2. Make the setup script executable and run it:
@@ -39,6 +39,4 @@ The script will:
 - The contract address will be saved in `contract.txt`.
 - The transaction hash for the minting process will be printed in the terminal.
 
-## Contact
-
-For any issues or inquiries, please reach out via [Telegram](https://t.me/HappyCuanAirdrop).
+Huge thanks to [Dante](https://github.com/dante4rt).
